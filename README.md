@@ -4,6 +4,8 @@
 
 ### Aprende mecanografía al ritmo de la música · Learn to type to the rhythm of music
 
+<a href="https://apps.microsoft.com/detail/9PNQXWFT3RK5?mode=direct"><img src="https://get.microsoft.com/images/es%20dark.svg" width="200" alt="Descargar desde Microsoft Store"></a>
+
 [![Windows](https://img.shields.io/badge/Descargar-Windows%20x64-C6F432?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-Setup-x64.exe)
 [![Linux .deb](https://img.shields.io/badge/Linux-.deb-C6F432?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/ritmografia_amd64.deb)
 [![Linux .tar.gz](https://img.shields.io/badge/Linux-.tar.gz-C6F432?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-linux-x64.tar.gz)
@@ -38,6 +40,9 @@
 ## ⬇️ Instalación
 
 **Windows 10/11 (64 bits)**
+- Recomendado: **[Microsoft Store](https://apps.microsoft.com/detail/9PNQXWFT3RK5)** (sin avisos de SmartScreen y con actualizaciones automáticas).
+- O el instalador directo:
+
 1. Descarga **[Ritmografia-Setup-x64.exe](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-Setup-x64.exe)** y ejecútalo (se instala para tu usuario, sin permisos de administrador).
 2. Si SmartScreen avisa, pulsa **Más información → Ejecutar de todas formas** (el instalador aún no está firmado).
 
@@ -64,7 +69,7 @@ Novedades de cada versión en [Releases](https://github.com/AndyCG03/ritmografia
 | <img src="docs/en/library.webp" width="400"> | **Your music** — lofi and instrumentals included, favorites, filters and importing your own songs with lyrics and cover art. |
 | <img src="docs/en/progress.webp" width="400"> | **My progress** — speed, accuracy, streak, activity and the keys to work on. |
 
-**Install:** Windows → [Ritmografia-Setup-x64.exe](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-Setup-x64.exe) · Linux → [.deb](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/ritmografia_amd64.deb) (`sudo apt install ./ritmografia_amd64.deb`) or [.tar.gz](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-linux-x64.tar.gz) (`./install.sh`).
+**Install:** Windows → [Microsoft Store](https://apps.microsoft.com/detail/9PNQXWFT3RK5) or [Ritmografia-Setup-x64.exe](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-Setup-x64.exe) · Linux → [.deb](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/ritmografia_amd64.deb) (`sudo apt install ./ritmografia_amd64.deb`) or [.tar.gz](https://github.com/AndyCG03/ritmografia-releases/releases/latest/download/Ritmografia-linux-x64.tar.gz) (`./install.sh`).
 
 ---
 
